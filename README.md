@@ -3,15 +3,13 @@ My Haskell learnings
 
 ## TODO
 
-  - [x] hello world in haskell
-  - [x] predicate - isPalindrome
-  - [x] abs
-  - [ ] recursion
-  - [ ] pattern matching
-  - [ ] currying
-  - [ ] partial application
-  - [ ] higher order functions
-  - [ ] guarded equations
+  - [x] Hello world in haskell
+  - [x] Predicate - isPalindrome
+  - [ ] Recursion
+  - [ ] Currying
+  - [ ] Partial application
+  - [ ] Partial functions
+  - [ ] Higher order functions
   - [x] if then else expression
   - [ ] Typeclass constrained type variables
   - [ ] Polymorphism - parametric polymorphism
@@ -23,11 +21,9 @@ My Haskell learnings
   - [ ] Creating new data types
   - [ ] Creating Aliases for existing data types
   - [ ] Typeclass instance for a new datatype
-  - [ ] partial functions
   - [ ] parameters vs arguments
   - [ ] Anonymous functions / lambda abstractions
   - [ ] Pattern matching against data constructers
   - [ ] Pattern matching tuples
   - [ ] Case expressions
-  - [ ] Higher order functions
   - [ ] Guards
