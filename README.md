@@ -27,3 +27,6 @@ My Haskell learnings
   - [ ] Pattern matching tuples
   - [ ] Case expressions
   - [ ] Guards
+  - [ ] otherwise
+  - [ ] Function composition
+  - [ ] Pointfree
