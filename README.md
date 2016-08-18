@@ -30,3 +30,14 @@ My Haskell learnings
   - [ ] otherwise
   - [ ] Function composition
   - [ ] Pointfree
+  - [ ] Pattern matching on lists
+  - [ ] List operations
+      - [ ] cons vs [a,a,a,a,a]
+      - [ ] range vs using enums
+      - [ ] extracting portions of list
+      - [ ] List comprehension
+      - [ ] Spines and non strict ealuation
+      - [ ] Transforming lists
+      - [ ] Filtering lists of values
+      - [ ] Zipping lists
+  - [ ] foldr and foldl
