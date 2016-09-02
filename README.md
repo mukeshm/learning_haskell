@@ -5,7 +5,7 @@ My Haskell learnings
 
   - [x] Hello world in haskell
   - [x] Predicate - isPalindrome
-  - [ ] Recursion
+  - [x] Recursion
   - [ ] Currying
   - [ ] Partial application
   - [ ] Partial functions
@@ -41,3 +41,8 @@ My Haskell learnings
       - [ ] Filtering lists of values
       - [ ] Zipping lists
   - [ ] foldr and foldl
+  - [ ] scanr and scanl
+  - [ ] Data and Type constructors
+  - [ ] Record syntax
+  - [ ] As - patterns
+  - [ ] Maybe and Either
