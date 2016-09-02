@@ -9,7 +9,7 @@ My Haskell learnings
   - [ ] Currying
   - [ ] Partial application
   - [ ] Partial functions
-  - [ ] Higher order functions
+  - [x] Higher order functions
   - [x] if then else expression
   - [ ] Typeclass constrained type variables
   - [ ] Polymorphism - parametric polymorphism
