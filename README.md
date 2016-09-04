@@ -6,7 +6,7 @@ My Haskell learnings
   - [x] Hello world in haskell
   - [x] Predicate - isPalindrome
   - [x] Recursion
-  - [ ] Currying
+  - [x] Currying
   - [ ] Partial application
   - [ ] Partial functions
   - [x] Higher order functions
