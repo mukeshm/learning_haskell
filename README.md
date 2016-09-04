@@ -7,7 +7,7 @@ My Haskell learnings
   - [x] Predicate - isPalindrome
   - [x] Recursion
   - [x] Currying
-  - [ ] Partial application
+  - [x] Partial application
   - [ ] Partial functions
   - [x] Higher order functions
   - [x] if then else expression
