@@ -11,7 +11,7 @@ My Haskell learnings
   - [ ] Partial functions
   - [x] Higher order functions
   - [x] if then else expression
-  - [ ] Typeclass constrained type variables
+  - [x] Typeclass constrained type variables
   - [ ] Polymorphism - parametric polymorphism
   - [ ] Polymorphism - constrained polymorphism
   - [ ] Working around constraints
@@ -31,6 +31,7 @@ My Haskell learnings
   - [ ] Function composition
   - [ ] Pointfree
   - [ ] Pattern matching on lists
+  - [ ] Tuples
   - [ ] List operations
       - [ ] cons vs [a,a,a,a,a]
       - [ ] range vs using enums
