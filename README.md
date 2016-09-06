@@ -3,15 +3,15 @@ My Haskell learnings
 
 ## TODO
 
-  - [x] Hello world in haskell
-  - [x] Predicate - isPalindrome
-  - [x] Recursion
-  - [x] Currying
-  - [x] Partial application
+  - [x] [Hello world in haskell] (https://github.com/mukeshm/learning_haskell/blob/master/hello.hs)
+  - [x] [Predicate - isPalindrome] (https://github.com/mukeshm/learning_haskell/blob/master/predicate.hs)
+  - [x] [Recursion] (https://github.com/mukeshm/learning_haskell/blob/master/recursion.hs)
+  - [x] [Currying] (https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
+  - [x] [Partial application] (https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
   - [x] [Partial functions] (https://github.com/mukeshm/learning_haskell/blob/master/partialfunctions.hs)
-  - [x] Higher order functions
-  - [x] if then else expression
-  - [x] Typeclass constrained type variables
+  - [x] [Higher order functions] (https://github.com/mukeshm/learning_haskell/blob/master/hof.hs)
+  - [x] [if then else expression] (https://github.com/mukeshm/learning_haskell/blob/master/ifthenelse.hs)
+  - [x] [Typeclass constrained type variables] (https://github.com/mukeshm/learning_haskell/blob/master/tctv.hs)
   - [ ] Polymorphism - parametric polymorphism
   - [ ] Polymorphism - constrained polymorphism
   - [ ] Working around constraints
