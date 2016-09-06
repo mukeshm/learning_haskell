@@ -8,7 +8,7 @@ My Haskell learnings
   - [x] Recursion
   - [x] Currying
   - [x] Partial application
-  - [ ] Partial functions
+  - [x] [Partial functions] (https://github.com/mukeshm/learning_haskell/blob/master/partialfunctions.hs)
   - [x] Higher order functions
   - [x] if then else expression
   - [x] Typeclass constrained type variables
