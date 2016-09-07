@@ -12,8 +12,8 @@ My Haskell learnings
   - [x] [Higher order functions] (https://github.com/mukeshm/learning_haskell/blob/master/hof.hs)
   - [x] [if then else expression] (https://github.com/mukeshm/learning_haskell/blob/master/ifthenelse.hs)
   - [x] [Typeclass constrained type variables] (https://github.com/mukeshm/learning_haskell/blob/master/tctv.hs)
-  - [ ] Polymorphism - parametric polymorphism
-  - [ ] Polymorphism - constrained polymorphism
+  - [x] [Polymorphism - parametric polymorphism] (https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
+  - [x] [Polymorphism - constrained polymorphism] (https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
   - [ ] Working around constraints
   - [ ] Type inference
   - [ ] Asserting types for declarations
