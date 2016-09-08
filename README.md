@@ -3,19 +3,18 @@ My Haskell learnings
 
 ## TODO
 
-  - [x] [Hello world in haskell] (https://github.com/mukeshm/learning_haskell/blob/master/hello.hs)
-  - [x] [Predicate - isPalindrome] (https://github.com/mukeshm/learning_haskell/blob/master/predicate.hs)
-  - [x] [Recursion] (https://github.com/mukeshm/learning_haskell/blob/master/recursion.hs)
-  - [x] [Currying] (https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
-  - [x] [Partial application] (https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
-  - [x] [Partial functions] (https://github.com/mukeshm/learning_haskell/blob/master/partialfunctions.hs)
-  - [x] [Higher order functions] (https://github.com/mukeshm/learning_haskell/blob/master/hof.hs)
-  - [x] [if then else expression] (https://github.com/mukeshm/learning_haskell/blob/master/ifthenelse.hs)
-  - [x] [Typeclass constrained type variables] (https://github.com/mukeshm/learning_haskell/blob/master/tctv.hs)
-  - [x] [Polymorphism - parametric polymorphism] (https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
-  - [x] [Polymorphism - constrained polymorphism] (https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
-  - [ ] Working around constraints
-  - [ ] Type inference
+  - [x] [Hello world in haskell](https://github.com/mukeshm/learning_haskell/blob/master/hello.hs)
+  - [x] [Predicate - isPalindrome](https://github.com/mukeshm/learning_haskell/blob/master/predicate.hs)
+  - [x] [Recursion](https://github.com/mukeshm/learning_haskell/blob/master/recursion.hs)
+  - [x] [Currying](https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
+  - [x] [Partial application](https://github.com/mukeshm/learning_haskell/blob/master/currying.hs)
+  - [x] [Partial functions](https://github.com/mukeshm/learning_haskell/blob/master/partialfunctions.hs)
+  - [x] [Higher order functions](https://github.com/mukeshm/learning_haskell/blob/master/hof.hs)
+  - [x] [if then else expression](https://github.com/mukeshm/learning_haskell/blob/master/ifthenelse.hs)
+  - [x] [Typeclass constrained type variables](https://github.com/mukeshm/learning_haskell/blob/master/tctv.hs)
+  - [x] [Polymorphism - parametric polymorphism](https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
+  - [x] [Polymorphism - constrained polymorphism](https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
+  - [x] [Type inference](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [ ] Asserting types for declarations
   - [ ] ad-hoc polymorphism
   - [ ] Creating new data types
