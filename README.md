@@ -16,7 +16,6 @@ My Haskell learnings
   - [x] [Polymorphism - constrained polymorphism](https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
   - [x] [Type inference](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [x] [Asserting types for declarations](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
-  - [ ] ad-hoc polymorphism
   - [ ] Creating new data types
   - [ ] Creating Aliases for existing data types
   - [ ] Typeclass instance for a new datatype
