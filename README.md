@@ -16,7 +16,7 @@ My Haskell learnings
   - [x] [Polymorphism - constrained polymorphism](https://github.com/mukeshm/learning_haskell/blob/master/polymorphism.hs)
   - [x] [Type inference](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [x] [Asserting types for declarations](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
-  - [ ] Creating new data types
+  - [x] [Creating new data types](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
   - [ ] Creating Aliases for existing data types
   - [ ] Typeclass instance for a new datatype
   - [ ] parameters vs arguments
@@ -45,3 +45,4 @@ My Haskell learnings
   - [ ] Record syntax
   - [ ] As - patterns
   - [ ] Maybe and Either
+  - [ ] Monoid
