@@ -17,7 +17,7 @@ My Haskell learnings
   - [x] [Type inference](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [x] [Asserting types for declarations](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [x] [Creating new data types](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
-  - [ ] Creating Aliases for existing data types
+  - [x] [Creating Aliases for existing data types](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
   - [ ] Typeclass instance for a new datatype
   - [ ] parameters vs arguments
   - [ ] Anonymous functions / lambda abstractions
@@ -46,3 +46,4 @@ My Haskell learnings
   - [ ] As - patterns
   - [ ] Maybe and Either
   - [ ] Monoid
+  - [ ] Semigroup
