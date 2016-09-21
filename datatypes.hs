@@ -45,8 +45,8 @@ type Married = Bool
 
 data Address' = Address' String String String String String String
 
--- The above declaration looks confusing, so we can rewrite the
--- above declaration using the record syntax as below
+-- The above declaration looks confusing, so we can rewrite it
+-- using the record syntax as below
 
 data Address = Address { doorNo   :: String
                         , street  :: String
@@ -62,11 +62,11 @@ data Address = Address { doorNo   :: String
 -- prelude > :t Address
 -- Address :: String -> String -> String -> String -> String -> String -> Address
 
--- Both Address' and Address have type signatures similar
--- But record syntax is much more understandable
+-- Both Address' and Address have similar type signatures
+-- But record syntax is much more easier to understand
 -- By using record syntax, haskell has already created functions
 -- `doorNo`, `street`, `city`, `state`, `country` and `pinCode` which takes a value
--- of type Address and returns back the values from the respective fileds
+-- of type Address and returns back the values from the respective fields
 -- ex :-
 -- prelude> :type pinCode
 -- pinCode :: Address -> String

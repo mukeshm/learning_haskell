@@ -48,3 +48,4 @@ My Haskell learnings
   - [ ] Maybe and Either
   - [ ] Monoid
   - [ ] Semigroup
+  - [ ] Functor
