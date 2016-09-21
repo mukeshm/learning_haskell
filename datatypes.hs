@@ -40,3 +40,35 @@ type Married = Bool
 -- prelude > :info String
 -- o/p : type String = [Char]   -- Defined in ‘GHC.Base’
 -- In Haskell String is just an alias to list of chars
+
+-- Record syntax in data declarations
+
+data Address' = Address' String String String String String String
+
+-- The above declaration looks confusing, so we can rewrite the
+-- above declaration using the record syntax as below
+
+data Address = Address { doorNo   :: String
+                        , street  :: String
+                        , city    :: String
+                        , state   :: String
+                        , country :: String
+                        , pinCode :: String
+                        }
+
+-- prelude > :t Address'
+-- Address' :: String -> String -> String -> String -> String -> String -> Address'
+
+-- prelude > :t Address
+-- Address :: String -> String -> String -> String -> String -> String -> Address
+
+-- Both Address' and Address have type signatures similar
+-- But record syntax is much more understandable
+-- By using record syntax, haskell has already created functions
+-- `doorNo`, `street`, `city`, `state`, `country` and `pinCode` which takes a value
+-- of type Address and returns back the values from the respective fileds
+-- ex :-
+-- prelude> :type pinCode
+-- pinCode :: Address -> String
+-- prelude> :type doorNo
+-- doorNo :: Address -> String

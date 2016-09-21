@@ -18,6 +18,7 @@ My Haskell learnings
   - [x] [Asserting types for declarations](https://github.com/mukeshm/learning_haskell/blob/master/type_inference.hs)
   - [x] [Creating new data types](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
   - [x] [Creating Aliases for existing data types](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
+  - [x] [Record syntax in data declarations](https://github.com/mukeshm/learning_haskell/blob/master/datatypes.hs)
   - [ ] Typeclass instance for a new datatype
   - [ ] parameters vs arguments
   - [ ] Anonymous functions / lambda abstractions
